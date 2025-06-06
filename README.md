@@ -1,6 +1,7 @@
 # Quantile Modeling Pipeline for Genetic Divergence Imputation
 
-This repository contains code and a sample dataset for training and evaluating a quantile regression model to impute genetic divergence (K80 distance) between pathogen cases. The model incorporates temporal, geographic, and host metadata and supports feature ablation experiments.
+Quantile regression pipeline for imputing genetic divergence between pathogen samples using spatiotemporal and host metadata. Includes feature ablation analysis and stratified evaluation.
+
 
 ## Files
 
