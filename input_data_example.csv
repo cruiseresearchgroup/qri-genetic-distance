@@ -1,0 +1,11 @@
+k80,delta_days,family1,family2,state1,state2,state_distance_km,year
+0.0021,5,Anatidae,Anatidae,CA,CA,0.0,2022
+0.0008,12,Galliformes,Anatidae,TX,CA,1850.3,2021
+0.0452,3,Accipitridae,Galliformes,FL,GA,550.8,2022
+0.0015,9,Anatidae,Anatidae,OR,WA,420.7,2023
+0.0503,20,Galliformes,Galliformes,AR,MS,300.0,2020
+0.0302,7,Anatidae,Galliformes,NY,PA,450.5,2022
+0.0007,15,Corvidae,Accipitridae,AZ,NM,600.2,2021
+0.002,6,Anatidae,Anatidae,IL,IL,0.0,2023
+0.0102,18,Galliformes,Anatidae,NC,SC,260.0,2022
+0.0047,2,Accipitridae,Accipitridae,CO,UT,700.4,2021
