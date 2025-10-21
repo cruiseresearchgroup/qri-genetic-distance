@@ -3,7 +3,7 @@
 This repository contains code and a sample dataset for training and evaluating a quantile regression model to impute genetic divergence between pathogen cases. The model incorporates temporal, geographic, and host metadata and supports feature ablation experiments.
 
 <p align="center">
-  <img src="assets/framework" alt="zooNet framework" width="760">
+  <img src="assets/framework.jpg" alt=" framework" width="760">
 </p>
 
 ## Files
