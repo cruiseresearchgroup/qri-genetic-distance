@@ -2,13 +2,17 @@
 
 This repository contains code and a sample dataset for training and evaluating a quantile regression model to impute genetic divergence between pathogen cases. The model incorporates temporal, geographic, and host metadata and supports feature ablation experiments.
 
+<p align="center">
+  <img src="assets/framework" alt="zooNet framework" width="760">
+</p>
+
 ## Files
 
 - `quantile_modeling_pipeline.py`: Main script that trains a quantile regression model (QRI) and runs ablation analysis across divergence strata.
 - `input_data_example.csv`: Synthetic sample input data with required fields and representative values.
 - `output_ablation_results.csv`: Output file generated after running the script, containing predictions and evaluation metrics.
 - `requirements.txt`: List of required Python packages for reproducibility.
-- `LICENSE`: MIT License for reuse.
+
 
 ## Input Format
 
