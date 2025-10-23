@@ -1,10 +1,12 @@
 # Quantile Modeling Pipeline for Genetic Divergence Imputation
+This repository contains the implementation and sample data accompanying our paper
 
-This repository contains code and a sample dataset for training and evaluating a quantile regression model to impute genetic divergence between pathogen cases. The model incorporates temporal, geographic, and host metadata and supports feature ablation experiments.
-
+**This repository accompanies the paper [A Probabilistic Framework for Imputing Genetic Distances in Spatiotemporal Pathogen Models](https://arxiv.org/abs/2506.09076), accepted at SIGSPATIAL 2025.
+**
 <p align="center">
   <img src="assets/framework.jpg" alt=" framework" width="760">
 </p>
+The pipeline trains quantile regression models to impute pairwise genetic divergence between pathogen sequences using temporal, geographic, and host metadata. It also includes automated feature ablation experiments and stratified model evaluation.
 
 ## Files
 
