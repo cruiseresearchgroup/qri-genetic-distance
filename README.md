@@ -1,8 +1,6 @@
 # Quantile Modeling Pipeline for Genetic Divergence Imputation
-This repository contains the implementation and sample data accompanying our paper
+This repository accompanies the paper [A Probabilistic Framework for Imputing Genetic Distances in Spatiotemporal Pathogen Models](https://arxiv.org/abs/2506.09076), accepted at SIGSPATIAL 2025.
 
-**This repository accompanies the paper [A Probabilistic Framework for Imputing Genetic Distances in Spatiotemporal Pathogen Models](https://arxiv.org/abs/2506.09076), accepted at SIGSPATIAL 2025.
-**
 <p align="center">
   <img src="assets/framework.jpg" alt=" framework" width="760">
 </p>
